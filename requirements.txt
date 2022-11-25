@@ -17,3 +17,4 @@ trio==0.22.0
 typing_extensions==3.7.4.3
 whois==0.9.17
 wmi==1.5.1
+
